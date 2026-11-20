@@ -7,17 +7,15 @@ chapter: false
 
 # Báo cáo thực tập
 ### Thông tin sinh viên:
-&emsp; **Họ và tên:** Nguyễn Văn A
+&emsp; **Họ và tên:** Nguyễn Thiên Phúc
 
-&emsp; **Số điện thoại:** 0989888999
+&emsp; **Số điện thoại:** 0349057081
 
-&emsp; **Email:** Anguyenvan@gmail.com
+&emsp; **Email:** phuckhongngoo@gmail.com
 
-&emsp; **Trường:** Đại học Sư phạm Kỹ thuật TP.HCM
+&emsp; **Trường:** Trường Đại học FPT
 
 &emsp; **Ngành:** Công nghệ thông tin
-
-&emsp; **Lớp:** AWS082025
 
 &emsp; **Công ty thực tập:** Công ty TNHH Amazon Web Services Viet Nam
 

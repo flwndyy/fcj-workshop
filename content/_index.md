@@ -13,17 +13,15 @@ chapter: false
 {{% /notice %}}
 
 ### Student Information:
-&emsp; **Full Name:** Nguyen Van A
+&emsp; **Full Name:** Nguyen Thien Phuc
 
-&emsp; **Phone Number:** 0989888999 
+&emsp; **Phone Number:** 0349057081 
 
-&emsp; **Email:** Anguyenvan@gmail.com
+&emsp; **Email:** phuckhongngoo@gmail.com
 
-&emsp; **University:** Ho Chi Minh City University of Technology and Education
+&emsp; **University:** FPT University
 
 &emsp; **Major:** Information Technology
-
-&emsp; **Class:** AWS082025
 
 &emsp; **Internship Company:** Amazon Web Services Viet Nam Company Limited
 
